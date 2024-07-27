@@ -1,4 +1,4 @@
-<img src="./inoai-icon.png" align="right" width="100" style="margin-bottom: 50px;">
+<img src="./inoai-icon.png" align="right" width="100" style="padding-bottom: 250px;">
 
 
 
