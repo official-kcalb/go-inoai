@@ -1,8 +1,6 @@
 <img src="./inoai-icon.png" align="right" width="100" style="margin-top: 250px;">
   
   <br>
- <br> 
-
 # Go Inoai
 
 Custom Ethereum Protocol for the InoAi Ecosystem
