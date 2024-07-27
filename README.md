@@ -1,8 +1,10 @@
 <img src="./inoai-icon.png" align="right" width="100" style="margin-top: 250px;">
 
-
-
+<br>
+  <br>
 # Go Inoai
+  <br>
+ <br> 
 Custom Ethereum Protocol for the InoAi Ecosystem
 
 [![API Reference](https://pkg.go.dev/badge/github.com/ethereum/go-ethereum)](https://pkg.go.dev/github.com/ethereum/go-ethereum?tab=doc)
