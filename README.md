@@ -27,7 +27,7 @@ Go Inoai is a customized implementation of the Ethereum protocol designed for th
 
 For more information and detailed instructions, please visit:
 
-- [Discord Community]([https://discord.gg/nthXNEv](https://discord.com/channels/1264248890635587636/1265301476507648010))
+- [Discord Community](https://discord.com/channels/1264248890635587636/1265301476507648010)
 - [Official Downloads](https://geth.ethereum.org/downloads/)
 
 ## License
